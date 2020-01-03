@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://">
+  <url>
+    <loc>https://EnglishInCasson.github.io/englishtutorial/</loc>
+    <lastmod>2020-01-03</lastmod>
+  </url>
+  <url oeid="cbac3517-a52d-4262-9087-d97de5087130" oelang="DEFAULT">
+    <loc>https://EnglishInCasson.github.io/englishtutorial/Contact.htm</loc>
+    <lastmod>2020-01-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://EnglishInCasson.github.io/englishtutorial/Contact.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://EnglishInCasson.github.io/englishtutorial/Contact.en.htm" />
+  </url>
+  <url oeid="cbac3517-a52d-4262-9087-d97de5087130" oelang="EN">
+    <loc>https://EnglishInCasson.github.io/englishtutorial/Contact.en.htm</loc>
+    <lastmod>2020-01-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://EnglishInCasson.github.io/englishtutorial/Contact.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://EnglishInCasson.github.io/englishtutorial/Contact.en.htm" />
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>https://EnglishInCasson.github.io/englishtutorial/index.html.htm</loc>
+    <lastmod>2020-01-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://EnglishInCasson.github.io/englishtutorial/index.html.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://EnglishInCasson.github.io/englishtutorial/index.html.en.htm" />
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="EN">
+    <loc>https://EnglishInCasson.github.io/englishtutorial/index.html.en.htm</loc>
+    <lastmod>2020-01-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://EnglishInCasson.github.io/englishtutorial/index.html.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://EnglishInCasson.github.io/englishtutorial/index.html.en.htm" />
+  </url>
+</urlset>
